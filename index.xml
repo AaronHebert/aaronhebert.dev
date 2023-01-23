@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aaron Hebert</title><link>https://aaronhebert.dev/</link><description>Recent content on Aaron Hebert</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://aaronhebert.dev/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://aaronhebert.dev/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaronhebert.dev/now/</guid><description>...</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron Hebert</title>
+    <link>/</link>
+    <description>Recent content on Aaron Hebert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/now/</guid>
+      <description>...</description>
+    </item>
+    
+  </channel>
+</rss>
